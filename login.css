@@ -18,7 +18,7 @@ body{
     width: 25vw;
     padding: 30px;
     backdrop-filter: blur(9px);
-    border: 2px solid black;
+    border: 2px solid rgb(47, 39, 39);
     border-radius: 20px;
 }
 h1{
